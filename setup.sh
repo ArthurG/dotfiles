@@ -8,3 +8,7 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 cp .vimrc ~/.vimrc
 
 # copying git files
+cp .gitconfig ~/.gitconfig
+
+# copying git files
+cp .tmux ~/.tmux
